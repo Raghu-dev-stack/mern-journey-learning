@@ -10,4 +10,16 @@ This repository contains my step-by-step learning path towards becoming a MERN S
 - Node & Express (later)
 - MongoDB (later)
 
+## Progress
+
+### Day 1 – HTML Basics
+- Basic HTML structure
+- Headings, paragraphs, lists
+
+### Day 2 – HTML Core Tags
+- Anchor tag (links)
+- Image tag
+- Tables
+- Forms
+
 Learning slowly, clearly, and consistently.
