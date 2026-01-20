@@ -22,4 +22,11 @@ This repository contains my step-by-step learning path towards becoming a MERN S
 - Tables
 - Forms
 
+### ✅ Day 6 – HTML Mini Project
+- Used complete HTML structure
+- Added image with alt attribute (accessibility)
+- Used headings, sections, paragraph
+- Improved semantic understanding
+- Mini project completed successfully
+
 Learning slowly, clearly, and consistently.
