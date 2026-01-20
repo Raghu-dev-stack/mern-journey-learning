@@ -27,6 +27,7 @@ This repository contains my step-by-step learning path towards becoming a MERN S
 - Added image with alt attribute (accessibility)
 - Used headings, sections, paragraph
 - Improved semantic understanding
+- Improve form page
 - Mini project completed successfully
 
 Learning slowly, clearly, and consistently.
