@@ -1,0 +1,24 @@
+/* Element selector */
+h1{
+    color: rgb(9, 9, 102);
+    text-align: center;
+}
+/* class selector */
+.para{
+    color: rgb(59, 211, 59);
+    font-size: 18px;
+
+}
+/* Id selector */
+#unique{
+    color: rgb(209, 209, 155);
+    font-weight: bold;
+}
+/* Box model */
+.box{
+    width: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 30px;
+    background-color: lightgray;
+}
