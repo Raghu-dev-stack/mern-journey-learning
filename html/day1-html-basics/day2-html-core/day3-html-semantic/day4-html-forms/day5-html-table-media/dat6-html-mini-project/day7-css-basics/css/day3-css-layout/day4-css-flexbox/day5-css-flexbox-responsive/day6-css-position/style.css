@@ -1,0 +1,31 @@
+body{
+    height: 2000px;
+}
+.parent{
+    position: relative;
+    width: 3000px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 50px;
+
+}
+.child{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: rgb(20, 20, 51);
+    padding: 10px;
+    border: 2px solid black;
+    align-items: center;
+    align-content: center;
+    color: white;
+    
+}
+.fixed{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
