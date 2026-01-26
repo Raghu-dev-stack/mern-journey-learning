@@ -30,4 +30,7 @@ This repository contains my step-by-step learning path towards becoming a MERN S
 - Improve form page
 - Mini project completed successfully
 
+## Day 6 – CSS Position
+- Learned relative, absolute, fixed, sticky
+- Practiced layout examples
 Learning slowly, clearly, and consistently.
