@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: #ff8c66;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+}
